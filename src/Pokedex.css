@@ -1,0 +1,12 @@
+#PokeDexTitle {
+  text-align: center;
+  color: lightgrey;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#pokeEntries {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
